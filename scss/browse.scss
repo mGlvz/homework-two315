@@ -1,0 +1,179 @@
+.browse{
+    height: 1700px;
+    width: 100%;
+    background-image: linear-gradient(rgb(0, 0, 0,.6),rgb(0, 0, 0,.6)), url(../images/caveRiver.JPG);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    // background-color: black;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    
+    .browseContainer{
+        height: 300px;
+        width: 500px;
+        background-color:black;
+        display: flex;
+        align-items: center;
+        justify-content: space-evenly;
+        margin-left: 50px;
+        border-radius: 15px;
+        .browseImage1{
+            height: 200px;
+            width: 200px;
+            // background-color: aqua;
+            border-radius: 5%;
+            background-image: url(../images/doghillEntrance.JPG);
+            background-repeat: no-repeat;
+            background-position:center;
+            background-size: cover;
+        }
+        .browseImage2{
+            height: 200px;
+            width: 200px;
+            // background-color: aqua;
+            border-radius: 5%;
+            background-image: url(../images/caveCrawl.jpeg);
+            background-repeat: no-repeat;
+            background-position:center;
+            background-size: cover;
+        }
+        .browseImage3{
+            height: 200px;
+            width: 200px;
+            // background-color: aqua;
+            border-radius: 5%;
+            background-image: url(../images/rimstoneClimb.JPG);
+            background-repeat: no-repeat;
+            background-position:center;
+            background-size: cover;
+        }
+        .browseImage4{
+            height: 200px;
+            width: 200px;
+            // background-color: aqua;
+            border-radius: 5%;
+            background-image: url(../images/caveRiver2.JPG);
+            background-repeat: no-repeat;
+            background-position:center;
+            background-size: cover;
+        }
+        .browseImage5{
+            height: 200px;
+            width: 200px;
+            // background-color: aqua;
+            border-radius: 5%;
+            background-image: url(../images/hugeFormations.JPG);
+            background-repeat: no-repeat;
+            background-position:center;
+            background-size: cover;
+        }
+        .browseImage6{
+            height: 200px;
+            width: 200px;
+            // background-color: aqua;
+            border-radius: 5%;
+            background-image: url(../images/waterCrawl.JPG);
+            background-repeat: no-repeat;
+            background-position:center;
+            background-size: cover;
+        }
+        .browseImage7{
+            height: 200px;
+            width: 200px;
+            // background-color: aqua;
+            border-radius: 5%;
+            background-image: url(../images/smallCrawl.JPG);
+            background-repeat: no-repeat;
+            background-position:center;
+            background-size: cover;
+        }
+        .browseImage8{
+            height: 200px;
+            width: 200px;
+            // background-color: aqua;
+            border-radius: 5%;
+            background-image: url(../images/beginningBathtub.JPG);
+            background-repeat: no-repeat;
+            background-position:center;
+            background-size: cover;
+        }
+        .browseImage9{
+            height: 200px;
+            width: 200px;
+            // background-color: aqua;
+            border-radius: 5%;
+            background-image: url(../images/markInBathtub.JPG);
+            background-repeat: no-repeat;
+            background-position:center;
+            background-size: cover;
+        }
+        .browseImage10{
+            height: 200px;
+            width: 200px;
+            // background-color: aqua;
+            border-radius: 5%;
+            background-image: url(../images/nopeRope.JPG);
+            background-repeat: no-repeat;
+            background-position:center;
+            background-size: cover;
+        }
+        .browseContentContainer {
+            height: 150px;
+            width:200px;
+            // background-color:aliceblue;
+            .browseContent1{
+                color: white;
+                font-size: 12px;
+                font-family: Inconsolata;
+            }
+            .browseContent2{
+                color: white;
+                font-size: 12px;
+                font-family: Inconsolata;
+            }
+            .browseContent3{
+                color: white;
+                font-size: 12px;
+                font-family: Inconsolata;
+            }
+            .browseContent4{
+                color: white;
+                font-size: 12px;
+                font-family: Inconsolata;
+            }
+            .browseContent5{
+                color: white;
+                font-size: 12px;
+                font-family: Inconsolata;
+            }
+            .browseContent6{
+                color: white;
+                font-size: 12px;
+                font-family: Inconsolata;
+            }
+            .browseContent7{
+                color: white;
+                font-size: 12px;
+                font-family: Inconsolata;
+            }
+            .browseContent8{
+                color: white;
+                font-size: 12px;
+                font-family: Inconsolata;
+            }
+            .browseContent9{
+                color: white;
+                font-size: 12px;
+                font-family: Inconsolata;
+            }
+            .browseContent10{
+                color: white;
+                font-size: 12px;
+                font-family: Inconsolata;
+            }
+        }
+    }
+}
